@@ -1,0 +1,231 @@
+[
+  {
+    "id":"Déodorant solide",
+    "name":"Déodorant solide",
+    "ingredients": [
+      {
+        "ids":["100"],
+        "quantity":"30 g",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["123","124","150"],
+        "quantity":"20 g",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"Au choix parmi :"
+      },
+      {
+        "ids":["151"],
+        "quantity":"30 g",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["119"],
+        "quantity":"5 g",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["122"],
+        "quantity":"20 g",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["209"],
+        "quantity":"10 gouttes",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      }
+    ],
+    "preparation":"Faire fondre au bain marie le beurre de karité et la cire d’abeille. Rajouter tous les ingrédients hors du feu puis l’huile essentielle quand le mélange a refroidi. Conditionner dans un pot et le mettre quelques minutes au frigo pour que le mélange se solidifie bien.",
+    "instructions":"0",
+    "advantages":"0",
+    "picture":"déodorant_solide",
+    "comments":[
+      {
+        "author":"Steve",
+        "comment":"Pas mal la recette.",
+        "email":"steve@gmail.com",
+        "date":"04/02/2021"
+      }
+    ],
+    "source":"zerowastemarseille.org"
+  },
+  {
+    "id":"Déodorant liquide",
+    "name":"Déodorant liquide",
+    "ingredients": [
+      {
+        "ids":["100"],
+        "quantity":"30 g",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["123","124","150"],
+        "quantity":"20 g",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"Au choix parmi :"
+      },
+      {
+        "ids":["115","122"],
+        "quantity":"30 g",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"Huile végétale au choix :"
+      },
+      {
+        "ids":["209"],
+        "quantity":"10 gouttes",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      }
+    ],
+    "preparation":"Tout mélanger et conditionner dans un pot.",
+    "instructions":"0",
+    "advantages":"0",
+    "picture":"déodorant_liquide",
+    "comments":[
+      {
+        "author":"Toni",
+        "comment":"Je connaissais pas, je vais essayer !",
+        "email":"toni@gmail.com",
+        "date":"04/02/2021"
+      },
+      {
+        "author":"Steve",
+        "comment":"Ouais tu as raison, ça vaut le coup.",
+        "email":"steve@gmail.com",
+        "date":"05/02/2021"
+      }
+    ],
+    "source":"zerowastemarseille.org"
+  },
+  {
+    "id":"Shampoing solide",
+    "name":"Shampoing solide",
+    "ingredients": [
+      {
+        "ids":["106"],
+        "quantity":"50 g",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["152"],
+        "quantity":"5 à 10 g",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["108","109","122","128"],
+        "quantity":"20 g",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"Huile(s) végétale(s) au choix :"
+      },
+      {
+        "ids":["103","121","125","153"],
+        "quantity":"10 g",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"Ingrédient(s) au choix :"
+      },
+      {
+        "ids":["301"],
+        "quantity":"10-20 gouttes",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["154","155","156"],
+        "quantity":" ",
+        "necessary":"false",
+        "advice":"0",
+        "choice":"Ingrédient(s) au choix :"
+      }
+    ],
+    "preparation":"Au bain marie, faire fondre les huiles végétales et eaux. Rajouter le tensio-actif et attendre qu’il soit bien fondu jusqu’à obtenir une pâte. Hors du feu, rajouter les huiles essentielles et les poudres. Verser la préparation dans des moules en silicone et laisser reposer quelques heures. Si votre préparation est trop humide, rajouter du SCS/SCI ou des poudres de plantes. Si elle est trop sèche, de l'eau ou des huiles.",
+    "instructions":"Ce shampoing s’utilise comme un savon, à faire mousser danses ses mains ou directement sur ses cheveux. ",
+    "advantages":"0",
+    "picture":"shampoing_solide",
+    "comments":[
+      {
+        "author":"Jonathan",
+        "comment":"J'utilise de l'huile essentielle de menthe et ça rend très bien !",
+        "email":"jonathan@gmail.com",
+        "date":"06/02/2021"
+      }
+    ],
+    "source":"zerowastemarseille.org"
+  },
+  {
+    "id":"Chantilly de karité (corps, visage et cheveux)",
+    "name":"Chantilly de karité (corps, visage et cheveux)",
+    "ingredients": [
+      {
+        "ids":["151"],
+        "quantity":"80 g",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["122"],
+        "quantity":"20 g",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["302"],
+        "quantity":"25 g",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["116"],
+        "quantity":"25 g",
+        "necessary":"false",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["301"],
+        "quantity":"12 gouttes",
+        "necessary":"false",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["156"],
+        "quantity":" ",
+        "necessary":"false",
+        "advice":"0",
+        "choice":"0"
+      }
+    ],
+    "preparation":"Dans un bol, ajoutez tous les ingrédients et mélanger à la fourchette pour ramollir le tout. Finir avec un mixeur plongeant pour obtenir un effet chantilly.Placez votre préparation dans un pot en verre à l'abri de l'air et de la lumière et conservez le 6 mois.",
+    "instructions":"Ce shampoing s’utilise comme un savon, à faire mousser danses ses mains ou directement sur ses cheveux. ",
+    "advantages":"Très efficace pour les callosités des pieds : Appliquer généreusement puis enfiler une paire de chaussette pour quelques heures ou toute la nuit. Idem pour un soin des cheveux !",
+    "picture":"chantilly_de_karité",
+    "comments":[],
+    "source":"zerowastemarseille.org"
+  }
+]
