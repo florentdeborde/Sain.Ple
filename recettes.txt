@@ -1,7 +1,7 @@
 [
   {
-    "id":"Déodorant solide",
-    "name":"Déodorant solide",
+    "id":"DÃ©odorant solide",
+    "name":"DÃ©odorant solide",
     "ingredients": [
       {
         "ids":["100"],
@@ -46,10 +46,10 @@
         "choice":"0"
       }
     ],
-    "preparation":"Faire fondre au bain marie le beurre de karité et la cire d’abeille. Rajouter tous les ingrédients hors du feu puis l’huile essentielle quand le mélange a refroidi. Conditionner dans un pot et le mettre quelques minutes au frigo pour que le mélange se solidifie bien.",
+    "preparation":"Faire fondre au bain marie le beurre de karitÃ© et la cire dâ€™abeille. Rajouter tous les ingrÃ©dients hors du feu puis lâ€™huile essentielle quand le mÃ©lange a refroidi. Conditionner dans un pot et le mettre quelques minutes au frigo pour que le mÃ©lange se solidifie bien.",
     "instructions":"0",
     "advantages":"0",
-    "picture":"déodorant_solide",
+    "picture":"dÃ©odorant_solide",
     "comments":[
       {
         "author":"Steve",
@@ -61,8 +61,8 @@
     "source":"zerowastemarseille.org"
   },
   {
-    "id":"Déodorant liquide",
-    "name":"Déodorant liquide",
+    "id":"DÃ©odorant liquide",
+    "name":"TEST",
     "ingredients": [
       {
         "ids":["100"],
@@ -83,7 +83,7 @@
         "quantity":"30 g",
         "necessary":"true",
         "advice":"0",
-        "choice":"Huile végétale au choix :"
+        "choice":"Huile vÃ©gÃ©tale au choix :"
       },
       {
         "ids":["209"],
@@ -93,10 +93,10 @@
         "choice":"0"
       }
     ],
-    "preparation":"Tout mélanger et conditionner dans un pot.",
+    "preparation":"Tout mÃ©langer et conditionner dans un pot.",
     "instructions":"0",
     "advantages":"0",
-    "picture":"déodorant_liquide",
+    "picture":"dÃ©odorant_liquide",
     "comments":[
       {
         "author":"Toni",
@@ -106,7 +106,7 @@
       },
       {
         "author":"Steve",
-        "comment":"Ouais tu as raison, ça vaut le coup.",
+        "comment":"Ouais tu as raison, Ã§a vaut le coup.",
         "email":"steve@gmail.com",
         "date":"05/02/2021"
       }
@@ -126,7 +126,7 @@
       },
       {
         "ids":["152"],
-        "quantity":"5 à 10 g",
+        "quantity":"5 Ã  10 g",
         "necessary":"true",
         "advice":"0",
         "choice":"0"
@@ -136,14 +136,14 @@
         "quantity":"20 g",
         "necessary":"true",
         "advice":"0",
-        "choice":"Huile(s) végétale(s) au choix :"
+        "choice":"Huile(s) vÃ©gÃ©tale(s) au choix :"
       },
       {
         "ids":["103","121","125","153"],
         "quantity":"10 g",
         "necessary":"true",
         "advice":"0",
-        "choice":"Ingrédient(s) au choix :"
+        "choice":"IngrÃ©dient(s) au choix :"
       },
       {
         "ids":["301"],
@@ -157,17 +157,17 @@
         "quantity":" ",
         "necessary":"false",
         "advice":"0",
-        "choice":"Ingrédient(s) au choix :"
+        "choice":"IngrÃ©dient(s) au choix :"
       }
     ],
-    "preparation":"Au bain marie, faire fondre les huiles végétales et eaux. Rajouter le tensio-actif et attendre qu’il soit bien fondu jusqu’à obtenir une pâte. Hors du feu, rajouter les huiles essentielles et les poudres. Verser la préparation dans des moules en silicone et laisser reposer quelques heures. Si votre préparation est trop humide, rajouter du SCS/SCI ou des poudres de plantes. Si elle est trop sèche, de l'eau ou des huiles.",
-    "instructions":"Ce shampoing s’utilise comme un savon, à faire mousser danses ses mains ou directement sur ses cheveux. ",
+    "preparation":"Au bain marie, faire fondre les huiles vÃ©gÃ©tales et eaux. Rajouter le tensio-actif et attendre quâ€™il soit bien fondu jusquâ€™Ã  obtenir une pÃ¢te. Hors du feu, rajouter les huiles essentielles et les poudres. Verser la prÃ©paration dans des moules en silicone et laisser reposer quelques heures. Si votre prÃ©paration est trop humide, rajouter du SCS/SCI ou des poudres de plantes. Si elle est trop sÃ¨che, de l'eau ou des huiles.",
+    "instructions":"Ce shampoing sâ€™utilise comme un savon, Ã  faire mousser danses ses mains ou directement sur ses cheveux. ",
     "advantages":"0",
     "picture":"shampoing_solide",
     "comments":[
       {
         "author":"Jonathan",
-        "comment":"J'utilise de l'huile essentielle de menthe et ça rend très bien !",
+        "comment":"J'utilise de l'huile essentielle de menthe et Ã§a rend trÃ¨s bien !",
         "email":"jonathan@gmail.com",
         "date":"06/02/2021"
       }
@@ -175,8 +175,8 @@
     "source":"zerowastemarseille.org"
   },
   {
-    "id":"Chantilly de karité (corps, visage et cheveux)",
-    "name":"Chantilly de karité (corps, visage et cheveux)",
+    "id":"Chantilly de karitÃ© (corps, visage et cheveux)",
+    "name":"Chantilly de karitÃ© (corps, visage et cheveux)",
     "ingredients": [
       {
         "ids":["151"],
@@ -221,10 +221,10 @@
         "choice":"0"
       }
     ],
-    "preparation":"Dans un bol, ajoutez tous les ingrédients et mélanger à la fourchette pour ramollir le tout. Finir avec un mixeur plongeant pour obtenir un effet chantilly.Placez votre préparation dans un pot en verre à l'abri de l'air et de la lumière et conservez le 6 mois.",
-    "instructions":"Ce shampoing s’utilise comme un savon, à faire mousser danses ses mains ou directement sur ses cheveux. ",
-    "advantages":"Très efficace pour les callosités des pieds : Appliquer généreusement puis enfiler une paire de chaussette pour quelques heures ou toute la nuit. Idem pour un soin des cheveux !",
-    "picture":"chantilly_de_karité",
+    "preparation":"Dans un bol, ajoutez tous les ingrÃ©dients et mÃ©langer Ã  la fourchette pour ramollir le tout. Finir avec un mixeur plongeant pour obtenir un effet chantilly.Placez votre prÃ©paration dans un pot en verre Ã  l'abri de l'air et de la lumiÃ¨re et conservez le 6 mois.",
+    "instructions":"Ce shampoing sâ€™utilise comme un savon, Ã  faire mousser danses ses mains ou directement sur ses cheveux. ",
+    "advantages":"TrÃ¨s efficace pour les callositÃ©s des pieds : Appliquer gÃ©nÃ©reusement puis enfiler une paire de chaussette pour quelques heures ou toute la nuit. Idem pour un soin des cheveux !",
+    "picture":"chantilly_de_karitÃ©",
     "comments":[],
     "source":"zerowastemarseille.org"
   }
