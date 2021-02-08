@@ -1,7 +1,7 @@
 [
   {
     "id":"302",
-    "name":"Huile végétale"
+    "name":"Huile vÃ©gÃ©tale"
   },
   {
     "id":"107",
@@ -17,11 +17,11 @@
   },
   {
     "id":"110",
-    "name":"Huile de sésame"
+    "name":"Huile de sÃ©same"
   },
   {
     "id":"111",
-    "name":"Huile de germe de blé"
+    "name":"Huile de germe de blÃ©"
   },
   {
     "id":"115",
@@ -37,7 +37,7 @@
   },
   {
     "id":"128",
-    "name":"Huile de karité"
+    "name":"Huile de karitÃ©"
   },
   {
     "id":"129",
@@ -68,6 +68,10 @@
     "name":"Huile de coco"
   },
   {
+    "id":"159",
+    "name":"Huile de lin"
+  },
+  {
     "id":"103",
     "name":"Eau"
   },
@@ -77,7 +81,7 @@
   },
   {
     "id":"126",
-    "name":"Eau minérale"
+    "name":"Eau minÃ©rale"
   },
   {
     "id":"125",
@@ -86,6 +90,14 @@
   {
     "id":"102",
     "name":"Fleurs de camomille"
+  },
+  {
+    "id":"160",
+    "name":"Alcool Ã  40Â°C"
+  },
+  {
+    "id":"161",
+    "name":"Vodka"
   },
   {
     "id":"105",
@@ -117,7 +129,11 @@
   },
   {
     "id":"140",
-    "name":"Épices"
+    "name":"Ã‰pices"
+  },
+  {
+    "id":"162",
+    "name":"Clou de girofle"
   },
   {
     "id":"305",
@@ -129,7 +145,7 @@
   },
   {
     "id":"113",
-    "name":"Jus de citron filtré"
+    "name":"Jus de citron filtrÃ©"
   },
   {
     "id":"138",
@@ -141,7 +157,15 @@
   },
   {
     "id":"106",
-    "name":"Tensioactif {SCI ou SCS}"
+    "name":"Tensioactif SCI"
+  },
+  {
+    "id":"157",
+    "name":"Tensioactif SCS"
+  },
+  {
+    "id":"163",
+    "name":"Feuille de sauge sÃ©chÃ©e"
   },
   {
     "id":"123",
@@ -149,23 +173,23 @@
   },
   {
     "id":"124",
-    "name":"Fécule de maïs"
+    "name":"FÃ©cule de maÃ¯s"
   },
   {
     "id":"150",
-    "name":"Fécule de pomme de terre"
+    "name":"FÃ©cule de pomme de terre"
   },
   {
     "id":"127",
-    "name":"Glycérine"
+    "name":"GlycÃ©rine"
   },
   {
     "id":"151",
-    "name":"Beurre de karité"
+    "name":"Beurre de karitÃ©"
   },
   {
     "id":"152",
-    "name":"Poudre de plante (ortie, henné, shikakai, prêle, ...)"
+    "name":"Poudre de plante"
   },
   {
     "id":"153",
@@ -173,7 +197,7 @@
   },
   {
     "id":"154",
-    "name":"Colorant végétal"
+    "name":"Colorant vÃ©gÃ©tal"
   },
   {
     "id":"155",
@@ -181,7 +205,7 @@
   },
   {
     "id":"156",
-    "name":"Conservateur naturel (extrait de pépin de pamplemousse)"
+    "name":"Conservateur naturel"
   },
   {
     "id":"114",
@@ -209,7 +233,11 @@
   },
   {
     "id":"100",
-    "name":"Bicarbonate"
+    "name":"Bicarbonate de soude"
+  },
+  {
+    "id":"158",
+    "name":"Bicarbonate de calcium"
   },
   {
     "id":"101",
@@ -230,6 +258,10 @@
   {
     "id":"147",
     "name":"Vinaigre d'alcool"
+  },
+  {
+    "id":"164",
+    "name":"Liquide vaisselle"
   },
   {
     "id":"149",
@@ -277,7 +309,7 @@
   },
   {
     "id":"211",
-    "name":"Huile essentielle de menthe poivrée"
+    "name":"Huile essentielle de menthe poivrÃ©e"
   },
   {
     "id":"209",
@@ -285,11 +317,11 @@
   },
   {
     "id":"210",
-    "name":"Huile essentielle de sauge sclarée"
+    "name":"Huile essentielle de sauge sclarÃ©e"
   },
   {
     "id":"214",
-    "name":"Huile essentielle de géranium"
+    "name":"Huile essentielle de gÃ©ranium"
   },
   {
     "id":"215",
@@ -301,7 +333,11 @@
   },
   {
     "id":"217",
-    "name":"Huile essentielle de cèdre de l'Atlas"
+    "name":"Huile essentielle de cÃ¨dre de l'Atlas"
+  },
+  {
+    "id":"218",
+    "name":"Huile essentielle de niaouli"
   },
   {
     "id":"301",
@@ -309,7 +345,7 @@
   },
   {
     "id":"303",
-    "name":"Lingettes démaquillantes"
+    "name":"Lingettes dÃ©maquillantes"
   },
   {
     "id":"304",
