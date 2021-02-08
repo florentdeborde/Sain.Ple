@@ -1,5 +1,85 @@
 [
   {
+    "id":"Dentifrice en poudre",
+    "name":"Dentifrice en poudre",
+    "ingredients": [
+      {
+        "ids":["101"],
+        "quantity":"3 cs",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["100"],
+        "quantity":"1 cc",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["211","216"],
+        "quantity":"5 gouttes",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"Huile essentielle au choix :"
+      }
+    ],
+    "preparation":"Dans un pot sans partie métallique, mélangez l'argile blanche et le bicarbonate de soude, puis ajoutez l'huile essentielle.",
+    "instructions":"Pour l’utiliser, il vous suffit de mouiller votre brosse à dent puis de la trempez dans la poudre.",
+    "advantages":"0",
+    "picture":"dentifrice_en_poudre",
+    "comments":[],
+    "source":"planetezerodechet.fr"
+  },
+  {
+    "id":"Dentifrice solide",
+    "name":"Dentifrice solide",
+    "ingredients": [
+      {
+        "ids":["106"],
+        "quantity":"15 g",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["158"],
+        "quantity":"30 g",
+        "necessary":"true",
+        "advice":"(blanc de meudon)",
+        "choice":"0"
+      },
+      {
+        "ids":["103"],
+        "quantity":"10 mL",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["205"],
+        "quantity":"2 gouttes",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["208"],
+        "quantity":"5 gouttes",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      }
+    ],
+    "preparation":"Dans un bol, mélangez le SCI, le carbonate de calcium et l’eau puis au bain-marie, faites fondre le-tout, une fois que vous obtenez une pâte, sortez du feu et ajoutez l’HE de Tea Tree puis celle de menthe tout en mélangeant. Placez votre préparation dans un moule et laissez reposer 48h au frais. Facultatif : enfoncez un bâtonnet en bois dans le moule.",
+    "instructions":"Pour l’utiliser, il vous suffit de frotter votre brosse à dent sur votre dentifrice puis de la mouiller.",
+    "advantages":"0",
+    "picture":"dentifrice_solide",
+    "comments":[],
+    "source":"zerowastemarseille.org"
+  },
+  {
     "id":"Déodorant solide",
     "name":"Déodorant solide",
     "ingredients": [
@@ -62,7 +142,7 @@
   },
   {
     "id":"Déodorant liquide",
-    "name":"TEST",
+    "name":"Déodorant liquide",
     "ingredients": [
       {
         "ids":["100"],
@@ -118,17 +198,17 @@
     "name":"Shampoing solide",
     "ingredients": [
       {
-        "ids":["106"],
+        "ids":["106","157"],
         "quantity":"50 g",
         "necessary":"true",
         "advice":"0",
-        "choice":"0"
+        "choice":"Au choix parmi :"
       },
       {
         "ids":["152"],
         "quantity":"5 à 10 g",
         "necessary":"true",
-        "advice":"0",
+        "advice":"(ortie, henné, shikakai, prêle, ...)",
         "choice":"0"
       },
       {
@@ -156,7 +236,7 @@
         "ids":["154","155","156"],
         "quantity":" ",
         "necessary":"false",
-        "advice":"0",
+        "advice":"(extrait de pépin de pamplemousse)",
         "choice":"Ingrédient(s) au choix :"
       }
     ],
@@ -222,9 +302,452 @@
       }
     ],
     "preparation":"Dans un bol, ajoutez tous les ingrédients et mélanger à la fourchette pour ramollir le tout. Finir avec un mixeur plongeant pour obtenir un effet chantilly.Placez votre préparation dans un pot en verre à l'abri de l'air et de la lumière et conservez le 6 mois.",
-    "instructions":"Ce shampoing s’utilise comme un savon, à faire mousser danses ses mains ou directement sur ses cheveux. ",
+    "instructions":"0",
     "advantages":"Très efficace pour les callosités des pieds : Appliquer généreusement puis enfiler une paire de chaussette pour quelques heures ou toute la nuit. Idem pour un soin des cheveux !",
     "picture":"chantilly_de_karité",
+    "comments":[],
+    "source":"zerowastemarseille.org"
+  },
+
+  {
+    "id":"Savon à barbe",
+    "name":"Savon à barbe",
+    "ingredients": [
+      {
+        "ids":["143"],
+        "quantity":"15 g",
+        "necessary":"true",
+        "advice":"en paillettes",
+        "choice":"0"
+      },
+      {
+        "ids":["103"],
+        "quantity":"30 g",
+        "necessary":"true",
+        "advice":"chaude",
+        "choice":"0"
+      },
+      {
+        "ids":["122"],
+        "quantity":"2 cc",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["115"],
+        "quantity":"2 cc",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["201"],
+        "quantity":"quelques gouttes",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      }
+    ],
+    "preparation":"Dissoudre le savon dans l'eau chaude puis ajoutez les huiles végétales. Verser la préparation dans un contenant de votre choix pour la laisser se durcir en pâte. Rajouter l'huile essentielle quand le mélange a refroidi.",
+    "instructions":"0",
+    "advantages":"0",
+    "picture":"savon_à_barbe",
+    "comments":[],
+    "source":"zerowastemarseille.org"
+  },
+  {
+    "id":"Baume à lèvres",
+    "name":"Baume à lèvres",
+    "ingredients": [
+      {
+        "ids":["110","131","159"],
+        "quantity":"7 mL",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"Huile végétale au choix :"
+      },
+      {
+        "ids":["151"],
+        "quantity":"7 g",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["119"],
+        "quantity":"3 g",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["156"],
+        "quantity":"quelques gouttes",
+        "necessary":"true",
+        "advice":"(extrait de pépin de pamplemousse)",
+        "choice":"0"
+      },
+      {
+        "ids":["301"],
+        "quantity":"quelques gouttes",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      }
+    ],
+    "preparation":"Verser l'huile végétale dans le contenant qui servira au baume. Faire fondre le beurre de karité et la cire d'abeille au bain marie puis verser dans le contenant. Ajouter l'huile essentiel et le conservateur. Laisser au frigo une nuit.",
+    "instructions":"0",
+    "advantages":"0",
+    "picture":"baume_à_lèvres",
+    "comments":[],
+    "source":"zerowastemarseille.org"
+  },
+  {
+    "id":"Bain de bouche",
+    "name":"Bain de bouche",
+    "ingredients": [
+      {
+        "ids":["103"],
+        "quantity":"60 mL",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["161","160"],
+        "quantity":"40 mL",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"Au choix parmi :"
+      },
+      {
+        "ids":["162"],
+        "quantity":"10 à 15",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["163"],
+        "quantity":"5 à 10 g",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      }
+    ],
+    "preparation":"Faire macérer le tout pendant 48h puis filtrer et verser dans un contenant de 100mL.",
+    "instructions":"A utiliser dilué dans de l'eau.",
+    "advantages":"0",
+    "picture":"bain_de_bouche",
+    "comments":[],
+    "source":"zerowastemarseille.org"
+  },
+  {
+    "id":"Pierre d'argile",
+    "name":"Pierre d'argile",
+    "ingredients": [
+      {
+        "ids":["103"],
+        "quantity":"100 mL",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["143"],
+        "quantity":"1 cs",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["101"],
+        "quantity":"200 g",
+        "necessary":"true",
+        "advice":"en poudre",
+        "choice":"0"
+      },
+      {
+        "ids":["100"],
+        "quantity":"2 cs",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["301"],
+        "quantity":"60 gouttes",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      }
+    ],
+    "preparation":"Pour un pot de 350 mL. Faire fondre le savon de Marseille dans l'eau. Puis mélangez tous les ingrédients ensemble et verser le tout dans un contenant de votre choix. Laissez la pierre d'argile sécher à l'air libre pour qu'elle durcisse.",
+    "instructions":"Prélevez une petite quantité de pierre d'argile à l'aide d'un chiffon humide, nettoyer vos surfaces sales (salle de bains, plaques de cuisson, ...) et rincez.",
+    "advantages":"0",
+    "picture":"pierre_d_argile",
+    "comments":[],
+    "source":"zerowastemarseille.org"
+  },
+  {
+    "id":"Crème à récurer",
+    "name":"Crème à récurer",
+    "ingredients": [
+      {
+        "ids":["103"],
+        "quantity":"300 mL",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["164"],
+        "quantity":"50 g",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["101"],
+        "quantity":"50 g",
+        "necessary":"true",
+        "advice":"en poudre",
+        "choice":"0"
+      },
+      {
+        "ids":["100"],
+        "quantity":"60 g",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["301"],
+        "quantity":"30 gouttes",
+        "necessary":"false",
+        "advice":"0",
+        "choice":"0"
+      }
+    ],
+    "preparation":"Mélangez tous les ingrédients ensemble et ajoutez de l'eau si vous souhaitez une consistance plus liquide. Versez le tout dans une bouteille.",
+    "instructions":"0",
+    "advantages":"0",
+    "picture":"crème_à_récurer",
+    "comments":[],
+    "source":"zerowastemarseille.org"
+  },
+  {
+    "id":"Nettoyant multi-usages",
+    "name":"Nettoyant multi-usages",
+    "ingredients": [
+      {
+        "ids":["103"],
+        "quantity":"2/3",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["141"],
+        "quantity":"1/3",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["100"],
+        "quantity":"1 cs",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["216","205","201"],
+        "quantity":"30 gouttes",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      }
+    ],
+    "preparation":"Pour un vaporisateur de 500 mL. Versez tous les ingrédients dans un vaporisateur et secouez légèrement le tout, bouchon fermé. C'est prêt !\nAstuces : Laissez macérer vos écorces d'agrumes une dizaine de jours dans du vinaigre pour remplacer les huiles essentielles de cette recette.",
+    "instructions":"0",
+    "advantages":"0",
+    "picture":"nettoyant_multi_usages",
+    "comments":[],
+    "source":"zerowastemarseille.org"
+  },
+  {
+    "id":"Spray dépoussiérant",
+    "name":"Spray dépoussiérant",
+    "ingredients": [
+      {
+        "ids":["103"],
+        "quantity":"750 mL",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["141"],
+        "quantity":"250 mL",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["133"],
+        "quantity":"1/2 cc",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["142"],
+        "quantity":"1 cc",
+        "necessary":"true",
+        "advice":"liquide",
+        "choice":"0"
+      },
+      {
+        "ids":["301"],
+        "quantity":"10 à 20 gouttes",
+        "necessary":"false",
+        "advice":"0",
+        "choice":"0"
+      }
+    ],
+    "preparation":"Pour un vaporisateur d' 1 L. Versez tous les ingrédients dans un vaporisateur et secouez. C'est prêt !",
+    "instructions":"0",
+    "advantages":"0",
+    "picture":"spray_dépoussiérant",
+    "comments":[],
+    "source":"zerowastemarseille.org"
+  },
+  {
+    "id":"Lessive",
+    "name":"Lessive",
+    "ingredients": [
+      {
+        "ids":["103"],
+        "quantity":"1 L",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["143"],
+        "quantity":"1 cs",
+        "necessary":"true",
+        "advice":"en paillette",
+        "choice":"0"
+      },
+      {
+        "ids":["100","146"],
+        "quantity":"2 cs",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"Au choix parmi :"
+      },
+      {
+        "ids":["301"],
+        "quantity":"10 à 20 gouttes",
+        "necessary":"false",
+        "advice":"\n(utilisation possible de plusieurs HE)",
+        "choice":"0"
+      }
+    ],
+    "preparation":"Pour 1 L de lessive. Faites bouillir l'eau et faites y fondre le savon de Marseille. Hors du feu, quand le mélange a un peu refroidi, incorporez les cristaux de soude. Quand le mélange est froid, ajouter les huiles essentielles, le bicarbonate de soude et mixez une nouvelle fois.",
+    "instructions":"Conditionnez le mélange dans des bouteilles sans les remplir entièrement afin de pouvoir secouer facilement : la lessive se solidifie légèrement lorsqu'elle a refroidie.",
+    "advantages":"0",
+    "picture":"lessive",
+    "comments":[],
+    "source":"zerowastemarseille.org"
+  },
+  {
+    "id":"Nettoyant pour le sol",
+    "name":"Nettoyant pour le sol",
+    "ingredients": [
+      {
+        "ids":["103"],
+        "quantity":"800 mL",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["146"],
+        "quantity":"40 g",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["141"],
+        "quantity":"2 cs",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["142"],
+        "quantity":"150 g",
+        "necessary":"true",
+        "advice":"liquide",
+        "choice":"0"
+      },
+      {
+        "ids":["216","205","201","218"],
+        "quantity":"30 gouttes",
+        "necessary":"false",
+        "advice":"0",
+        "choice":"Huile essentielle au choix :"
+      }
+    ],
+    "preparation":"Pour 1 L. Dans un saladier en verre ou en métal, versez l'eau à température ambiante. Ajoutez les cristaux de soude et laissez-les se dissoudre, sans mélanger, pendant 20 minutes environ. Ajoutez ensuite le savon noir, le vinaigre, les huiles essentielles et mélangez bien. Versez le tout dans une bouteille en verre ou un flacon.",
+    "instructions":"A chaque nettoyage de vos sols, secouez votre flacon puis versez l'équivalent d'un bouchon dans un seau d'eau chaud. Cette recette vous permet de faire une douzaine de nettoyage au total.",
+    "advantages":"Pour éviter d'utiliser des huiles essentielles dans vos préparations à base de vinaigre. Faites macérer des épluchures d'agrumes dans votre vinaigre blanc !",
+    "picture":"nettoyant_pour_sol",
+    "comments":[],
+    "source":"zerowastemarseille.org"
+  },
+  {
+    "id":"Poudre lave-vaisselle",
+    "name":"Poudre lave-vaisselle",
+    "ingredients": [
+      {
+        "ids":["146"],
+        "quantity":"80 g",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["144"],
+        "quantity":"80 g",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["145"],
+        "quantity":"50 g",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      },
+      {
+        "ids":["100"],
+        "quantity":"40 g",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      }
+    ],
+    "preparation":"Ajoutez un à un tous les ingrédients dans un bocal (type confiture), mélangez...C'est prêt !",
+    "instructions":"0",
+    "advantages":"0",
+    "picture":"poudre_lave_vaisselle",
     "comments":[],
     "source":"zerowastemarseille.org"
   }
