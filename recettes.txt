@@ -134,7 +134,6 @@
       {
         "author":"Steve",
         "comment":"Pas mal la recette.",
-        "email":"steve@gmail.com",
         "date":"04/02/2021"
       }
     ],
@@ -181,13 +180,11 @@
       {
         "author":"Toni",
         "comment":"Je connaissais pas, je vais essayer !",
-        "email":"toni@gmail.com",
         "date":"04/02/2021"
       },
       {
         "author":"Steve",
         "comment":"Ouais tu as raison, ça vaut le coup.",
-        "email":"steve@gmail.com",
         "date":"05/02/2021"
       }
     ],
@@ -248,7 +245,6 @@
       {
         "author":"Jonathan",
         "comment":"J'utilise de l'huile essentielle de menthe et ça rend très bien !",
-        "email":"jonathan@gmail.com",
         "date":"06/02/2021"
       }
     ],
