@@ -75,7 +75,7 @@
     "preparation":"Dans un bol, mélangez le SCI, le carbonate de calcium et l’eau puis au bain-marie, faites fondre le-tout, une fois que vous obtenez une pâte, sortez du feu et ajoutez l’HE de Tea Tree puis celle de menthe tout en mélangeant. Placez votre préparation dans un moule et laissez reposer 48h au frais. Facultatif : enfoncez un bâtonnet en bois dans le moule.",
     "instructions":"Pour l’utiliser, il vous suffit de frotter votre brosse à dent sur votre dentifrice puis de la mouiller.",
     "advantages":"0",
-    "picture":"0",
+    "picture":"picture_default",
     "comments":[],
     "source":"zerowastemarseille.org"
   },
@@ -129,7 +129,7 @@
     "preparation":"Faire fondre au bain marie le beurre de karité et la cire d’abeille. Rajouter tous les ingrédients hors du feu puis l’huile essentielle quand le mélange a refroidi. Conditionner dans un pot et le mettre quelques minutes au frigo pour que le mélange se solidifie bien.",
     "instructions":"0",
     "advantages":"0",
-    "picture":"0",
+    "picture":"picture_default",
     "comments":[
       {
         "author":"Steve",
@@ -175,7 +175,7 @@
     "preparation":"Tout mélanger et conditionner dans un pot.",
     "instructions":"0",
     "advantages":"0",
-    "picture":"0",
+    "picture":"picture_default",
     "comments":[
       {
         "author":"Toni",
@@ -240,7 +240,7 @@
     "preparation":"Au bain marie, faire fondre les huiles végétales et eaux. Rajouter le tensio-actif et attendre qu’il soit bien fondu jusqu’à obtenir une pâte. Hors du feu, rajouter les huiles essentielles et les poudres. Verser la préparation dans des moules en silicone et laisser reposer quelques heures. Si votre préparation est trop humide, rajouter du SCS/SCI ou des poudres de plantes. Si elle est trop sèche, de l'eau ou des huiles.",
     "instructions":"Ce shampoing s’utilise comme un savon, à faire mousser danses ses mains ou directement sur ses cheveux. ",
     "advantages":"0",
-    "picture":"0",
+    "picture":"picture_default",
     "comments":[
       {
         "author":"Jonathan",
@@ -300,7 +300,7 @@
     "preparation":"Dans un bol, ajoutez tous les ingrédients et mélanger à la fourchette pour ramollir le tout. Finir avec un mixeur plongeant pour obtenir un effet chantilly.Placez votre préparation dans un pot en verre à l'abri de l'air et de la lumière et conservez le 6 mois.",
     "instructions":"0",
     "advantages":"Très efficace pour les callosités des pieds : Appliquer généreusement puis enfiler une paire de chaussette pour quelques heures ou toute la nuit. Idem pour un soin des cheveux !",
-    "picture":"0",
+    "picture":"picture_default",
     "comments":[],
     "source":"zerowastemarseille.org"
   },
@@ -348,7 +348,7 @@
     "preparation":"Dissoudre le savon dans l'eau chaude puis ajoutez les huiles végétales. Verser la préparation dans un contenant de votre choix pour la laisser se durcir en pâte. Rajouter l'huile essentielle quand le mélange a refroidi.",
     "instructions":"0",
     "advantages":"0",
-    "picture":"0",
+    "picture":"picture_default",
     "comments":[],
     "source":"zerowastemarseille.org"
   },
@@ -395,7 +395,7 @@
     "preparation":"Verser l'huile végétale dans le contenant qui servira au baume. Faire fondre le beurre de karité et la cire d'abeille au bain marie puis verser dans le contenant. Ajouter l'huile essentiel et le conservateur. Laisser au frigo une nuit.",
     "instructions":"0",
     "advantages":"0",
-    "picture":"0",
+    "picture":"picture_default",
     "comments":[],
     "source":"zerowastemarseille.org"
   },
@@ -435,7 +435,7 @@
     "preparation":"Faire macérer le tout pendant 48h puis filtrer et verser dans un contenant de 100mL.",
     "instructions":"A utiliser dilué dans de l'eau.",
     "advantages":"0",
-    "picture":"0",
+    "picture":"picture_default",
     "comments":[],
     "source":"zerowastemarseille.org"
   },
@@ -529,7 +529,7 @@
     "preparation":"Mélangez tous les ingrédients ensemble et ajoutez de l'eau si vous souhaitez une consistance plus liquide. Versez le tout dans une bouteille.",
     "instructions":"0",
     "advantages":"0",
-    "picture":"0",
+    "picture":"picture_default",
     "comments":[],
     "source":"zerowastemarseille.org"
   },
@@ -569,7 +569,7 @@
     "preparation":"Pour un vaporisateur de 500 mL. Versez tous les ingrédients dans un vaporisateur et secouez légèrement le tout, bouchon fermé. C'est prêt !\nAstuces : Laissez macérer vos écorces d'agrumes une dizaine de jours dans du vinaigre pour remplacer les huiles essentielles de cette recette.",
     "instructions":"0",
     "advantages":"0",
-    "picture":"0",
+    "picture":"picture_default",
     "comments":[],
     "source":"zerowastemarseille.org"
   },
@@ -616,7 +616,7 @@
     "preparation":"Pour un vaporisateur d' 1 L. Versez tous les ingrédients dans un vaporisateur et secouez. C'est prêt !",
     "instructions":"0",
     "advantages":"0",
-    "picture":"0",
+    "picture":"picture_default",
     "comments":[],
     "source":"zerowastemarseille.org"
   },
@@ -656,7 +656,7 @@
     "preparation":"Pour 1 L de lessive. Faites bouillir l'eau et faites y fondre le savon de Marseille. Hors du feu, quand le mélange a un peu refroidi, incorporez les cristaux de soude. Quand le mélange est froid, ajouter les huiles essentielles, le bicarbonate de soude et mixez une nouvelle fois.",
     "instructions":"Conditionnez le mélange dans des bouteilles sans les remplir entièrement afin de pouvoir secouer facilement : la lessive se solidifie légèrement lorsqu'elle a refroidie.",
     "advantages":"0",
-    "picture":"0",
+    "picture":"picture_default",
     "comments":[],
     "source":"zerowastemarseille.org"
   },
@@ -703,7 +703,7 @@
     "preparation":"Pour 1 L. Dans un saladier en verre ou en métal, versez l'eau à température ambiante. Ajoutez les cristaux de soude et laissez-les se dissoudre, sans mélanger, pendant 20 minutes environ. Ajoutez ensuite le savon noir, le vinaigre, les huiles essentielles et mélangez bien. Versez le tout dans une bouteille en verre ou un flacon.",
     "instructions":"A chaque nettoyage de vos sols, secouez votre flacon puis versez l'équivalent d'un bouchon dans un seau d'eau chaud. Cette recette vous permet de faire une douzaine de nettoyage au total.",
     "advantages":"Pour éviter d'utiliser des huiles essentielles dans vos préparations à base de vinaigre. Faites macérer des épluchures d'agrumes dans votre vinaigre blanc !",
-    "picture":"0",
+    "picture":"picture_default",
     "comments":[],
     "source":"zerowastemarseille.org"
   },
@@ -743,7 +743,7 @@
     "preparation":"Ajoutez un à un tous les ingrédients dans un bocal (type confiture), mélangez...C'est prêt !",
     "instructions":"0",
     "advantages":"0",
-    "picture":"0",
+    "picture":"picture_default",
     "comments":[],
     "source":"zerowastemarseille.org"
   }
