@@ -482,7 +482,7 @@
     "preparation":"Pour un pot de 350 mL. Faire fondre le savon de Marseille dans l'eau. Puis mélangez tous les ingrédients ensemble et verser le tout dans un contenant de votre choix. Laissez la pierre d'argile sécher à l'air libre pour qu'elle durcisse.",
     "instructions":"Prélevez une petite quantité de pierre d'argile à l'aide d'un chiffon humide, nettoyer vos surfaces sales (salle de bains, plaques de cuisson, ...) et rincez.",
     "advantages":"0",
-    "picture":"picture_pierre_d_argile",
+    "picture":"picture_default",
     "comments":[],
     "source":"zerowastemarseille.org"
   },
