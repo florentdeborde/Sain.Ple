@@ -129,7 +129,7 @@
     "preparation":"Faire fondre au bain-marie le beurre de karité et la cire d’abeille. Rajouter tous les ingrédients hors du feu puis l’huile essentielle quand le mélange a refroidi. Conditionner dans un pot et le mettre quelques minutes au frigo pour que le mélange se solidifie bien.",
     "instructions":"0",
     "advantages":"0",
-    "picture":"picture_default",
+    "picture":"picture_deodorant_solide",
     "comments":[
       {
         "author":"Steve",
@@ -175,7 +175,7 @@
     "preparation":"Tout mélanger et conditionner dans un pot.",
     "instructions":"0",
     "advantages":"0",
-    "picture":"picture_default",
+    "picture":"picture_deodorant_liquide",
     "comments":[
       {
         "author":"Toni",
