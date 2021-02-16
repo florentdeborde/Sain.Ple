@@ -269,79 +269,79 @@
   },
   {
     "id":"201",
-    "name":"Huile essentielle de lavande"
+    "name":"HE de lavande"
   },
   {
     "id":"212",
-    "name":"Huile essentielle de lavande fine"
+    "name":"HE de lavande fine"
   },
   {
     "id":"202",
-    "name":"Huile essentielle d'ylang-ylang"
+    "name":"HE d'ylang-ylang"
   },
   {
     "id":"203",
-    "name":"Huile essentielle de thym"
+    "name":"HE de thym"
   },
   {
     "id":"204",
-    "name":"Huile essentielle de romarin"
+    "name":"HE de romarin"
   },
   {
     "id":"205",
-    "name":"Huile essentielle de tea tree"
+    "name":"HE de tea tree"
   },
   {
     "id":"206",
-    "name":"Huile essentielle de camomille"
+    "name":"HE de camomille"
   },
   {
     "id":"213",
-    "name":"Huile essentielle de camomille romaine"
+    "name":"HE de camomille romaine"
   },
   {
     "id":"207",
-    "name":"Huile essentielle de petit grain"
+    "name":"HE de petit grain"
   },
   {
     "id":"208",
-    "name":"Huile essentielle de menthe"
+    "name":"HE de menthe"
   },
   {
     "id":"211",
-    "name":"Huile essentielle de menthe poivrée"
+    "name":"HE de menthe poivrée"
   },
   {
     "id":"209",
-    "name":"Huile essentielle de palmarosa"
+    "name":"HE de palmarosa"
   },
   {
     "id":"210",
-    "name":"Huile essentielle de sauge sclarée"
+    "name":"HE de sauge sclarée"
   },
   {
     "id":"214",
-    "name":"Huile essentielle de géranium"
+    "name":"HE de géranium"
   },
   {
     "id":"215",
-    "name":"Huile essentielle d'eucalyptus"
+    "name":"HE d'eucalyptus"
   },
   {
     "id":"216",
-    "name":"Huile essentielle de citron"
+    "name":"HE de citron"
   },
   {
     "id":"217",
-    "name":"Huile essentielle de cèdre de l'Atlas"
+    "name":"HE de cèdre de l'Atlas"
   },
   {
     "id":"218",
-    "name":"Huile essentielle de niaouli"
+    "name":"HE de niaouli"
   },
   {
     "id":"301",
-    "name":"Huile essentielle au choix"
+    "name":"Huile(s) essentielle(s) au choix"
   },
   {
     "id":"303",
