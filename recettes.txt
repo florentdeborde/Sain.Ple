@@ -240,7 +240,7 @@
     "preparation":"Au bain marie, faire fondre les huiles végétales et eaux. Rajouter le tensio-actif et attendre qu’il soit bien fondu jusqu’à obtenir une pâte. Hors du feu, rajouter les huiles essentielles et les poudres. Verser la préparation dans des moules en silicone et laisser reposer quelques heures. Si votre préparation est trop humide, rajouter du SCS/SCI ou des poudres de plantes. Si elle est trop sèche, de l'eau ou des huiles.",
     "instructions":"Ce shampoing s’utilise comme un savon, à faire mousser dans ses mains ou directement sur ses cheveux.",
     "advantages":"0",
-    "picture":"picture_default",
+    "picture":"picture_shampoing_solide",
     "comments":[
       {
         "author":"Jonathan",
@@ -300,7 +300,7 @@
     "preparation":"Dans un bol, ajoutez tous les ingrédients et mélangez à la fourchette pour ramollir le tout. Finir avec un mixeur plongeant pour obtenir un effet chantilly.Placez votre préparation dans un pot en verre à l'abri de l'air et de la lumière et conservez le 6 mois.",
     "instructions":"0",
     "advantages":"Très efficace pour les callosités des pieds : Appliquer généreusement puis enfiler une paire de chaussette pour quelques heures ou toute la nuit. Idem pour un soin des cheveux !",
-    "picture":"picture_default",
+    "picture":"picture_chantilly_de_karite",
     "comments":[],
     "source":"zerowastemarseille.org"
   },
@@ -348,7 +348,7 @@
     "preparation":"Dissoudre le savon dans l'eau chaude puis ajouter les huiles végétales. Verser la préparation dans un contenant de votre choix pour la laisser se durcir en pâte. Rajouter l'huile essentielle quand le mélange a refroidi.",
     "instructions":"0",
     "advantages":"0",
-    "picture":"picture_default",
+    "picture":"picture_savon_a_barbe",
     "comments":[],
     "source":"zerowastemarseille.org"
   },
@@ -395,7 +395,7 @@
     "preparation":"Verser l'huile végétale dans le contenant qui servira au baume. Faire fondre le beurre de karité et la cire d'abeille au bain-marie puis verser dans le contenant. Ajouter l'huile essentielle et le conservateur. Laisser au frigo une nuit.",
     "instructions":"0",
     "advantages":"0",
-    "picture":"picture_default",
+    "picture":"picture_baume_a_levres",
     "comments":[],
     "source":"zerowastemarseille.org"
   },
@@ -703,7 +703,7 @@
     "preparation":"Pour 1 L :\nDans un saladier en verre ou en métal, verser l'eau à température ambiante. Ajouter les cristaux de soude et laisser-les se dissoudre, sans mélanger, pendant 20 minutes environs. Ajouter ensuite le savon noir, le vinaigre, les huiles essentielles et mélanger bien. Verser le tout dans une bouteille en verre ou un flacon.",
     "instructions":"A chaque nettoyage de vos sols, secouer votre flacon puis verser l'équivalent d'un bouchon dans un seau d'eau chaude. Cette recette vous permet de faire une douzaine de nettoyage au total.",
     "advantages":"Pour éviter d'utiliser des huiles essentielles dans vos préparations à base de vinaigre. Faire macérer des épluchures d'agrumes dans votre vinaigre blanc !",
-    "picture":"picture_default",
+    "picture":"picture_lessive",
     "comments":[],
     "source":"zerowastemarseille.org"
   },
