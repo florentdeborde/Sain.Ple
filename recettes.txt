@@ -656,7 +656,7 @@
     "preparation":"Pour 1 L de lessive :\nFaire bouillir l'eau et y faire fondre le savon de Marseille. Hors du feu, quand le mélange a un peu refroidi, incorporer les cristaux de soude. Quand le mélange est froid, ajouter les huiles essentielles, le bicarbonate de soude et mixez une nouvelle fois.",
     "instructions":"Conditionnez le mélange dans des bouteilles sans les remplir entièrement afin de pouvoir secouer facilement : la lessive se solidifie légèrement lorsqu'elle a refroidie.",
     "advantages":"0",
-    "picture":"picture_default",
+    "picture":"picture_lessive",
     "comments":[],
     "source":"zerowastemarseille.org"
   },
@@ -703,7 +703,7 @@
     "preparation":"Pour 1 L :\nDans un saladier en verre ou en métal, verser l'eau à température ambiante. Ajouter les cristaux de soude et laisser-les se dissoudre, sans mélanger, pendant 20 minutes environs. Ajouter ensuite le savon noir, le vinaigre, les huiles essentielles et mélanger bien. Verser le tout dans une bouteille en verre ou un flacon.",
     "instructions":"A chaque nettoyage de vos sols, secouer votre flacon puis verser l'équivalent d'un bouchon dans un seau d'eau chaude. Cette recette vous permet de faire une douzaine de nettoyage au total.",
     "advantages":"Pour éviter d'utiliser des huiles essentielles dans vos préparations à base de vinaigre. Faire macérer des épluchures d'agrumes dans votre vinaigre blanc !",
-    "picture":"picture_lessive",
+    "picture":"picture_default",
     "comments":[],
     "source":"zerowastemarseille.org"
   },
