@@ -455,7 +455,7 @@
         "quantity":"2,5 cs",
         "necessary":"true",
         "advice":"0",
-        "choice":"Au choix parmi :"
+        "choice":""
       },
       {
         "ids":["144"],
@@ -472,8 +472,8 @@
         "choice":"0"
       },
       {
-        "ids":["164","165"],
-        "quantity":"5 à 10 g",
+        "ids":["166","165"],
+        "quantity":"",
         "necessary":"false",
         "advice":"(pour décorer les boules de bain)",
         "choice":"0"
