@@ -4,6 +4,10 @@
     "name":"Huile végétale"
   },
   {
+    "id":"107",
+    "name":"Huile de calophylle inophylle"
+  },
+  {
     "id":"108",
     "name":"Huile de ricin"
   },
@@ -16,20 +20,48 @@
     "name":"Huile de sésame"
   },
   {
+    "id":"111",
+    "name":"Huile de germe de blé"
+  },
+  {
     "id":"115",
     "name":"Huile fine d'amande douce"
+  },
+  {
+    "id":"117",
+    "name":"Huile d'onagre"
+  },
+  {
+    "id":"118",
+    "name":"Huile d'argan"
   },
   {
     "id":"128",
     "name":"Huile de karité"
   },
   {
+    "id":"129",
+    "name":"Huile d'avocat"
+  },
+  {
+    "id":"130",
+    "name":"Huile de tournesol"
+  },
+  {
     "id":"131",
     "name":"Huile de calendula"
   },
   {
+    "id":"132",
+    "name":"Huile d'argousier"
+  },
+  {
     "id":"133",
     "name":"Huile d'olive"
+  },
+  {
+    "id":"134",
+    "name":"Huile de noisette"
   },
   {
     "id":"122",
@@ -48,8 +80,16 @@
     "name":"Eau de rose"
   },
   {
+    "id":"126",
+    "name":"Eau minérale"
+  },
+  {
     "id":"125",
     "name":"Eau de fleur d'oranger"
+  },
+  {
+    "id":"102",
+    "name":"Fleurs de camomille"
   },
   {
     "id":"160",
@@ -58,6 +98,10 @@
   {
     "id":"161",
     "name":"Vodka"
+  },
+  {
+    "id":"105",
+    "name":"Savon d'Alep"
   },
   {
     "id":"142",
@@ -72,8 +116,44 @@
     "name":"Gel d'aloe vera"
   },
   {
+    "id":"135",
+    "name":"Poudre de canelle"
+  },
+  {
+    "id":"136",
+    "name":"Poudre de paprika"
+  },
+  {
+    "id":"137",
+    "name":"Poudre de cacao"
+  },
+  {
+    "id":"140",
+    "name":"Épices"
+  },
+  {
     "id":"162",
     "name":"Clou de girofle"
+  },
+  {
+    "id":"305",
+    "name":"Amandes"
+  },
+  {
+    "id":"104",
+    "name":"Citron"
+  },
+  {
+    "id":"113",
+    "name":"Jus de citron filtré"
+  },
+  {
+    "id":"138",
+    "name":"Capsule de charbon actif"
+  },
+  {
+    "id":"139",
+    "name":"Capsule de cacao"
   },
   {
     "id":"106",
@@ -108,6 +188,10 @@
     "name":"Fécule de pomme de terre"
   },
   {
+    "id":"127",
+    "name":"Glycérine"
+  },
+  {
     "id":"151",
     "name":"Beurre de karité"
   },
@@ -132,8 +216,24 @@
     "name":"Conservateur naturel"
   },
   {
+    "id":"114",
+    "name":"Miel"
+  },
+  {
+    "id":"120",
+    "name":"Miel liquide"
+  },
+  {
     "id":"119",
     "name":"Cire d'abeille"
+  },
+  {
+    "id":"112",
+    "name":"Sucre fin"
+  },
+  {
+    "id":"148",
+    "name":"Gros sel"
   },
   {
     "id":"144",
@@ -164,16 +264,52 @@
     "name":"Vinaigre blanc"
   },
   {
+    "id":"147",
+    "name":"Vinaigre d'alcool"
+  },
+  {
     "id":"164",
     "name":"Liquide vaisselle"
+  },
+  {
+    "id":"149",
+    "name":"Farine"
   },
   {
     "id":"201",
     "name":"HE de lavande"
   },
   {
+    "id":"212",
+    "name":"HE de lavande fine"
+  },
+  {
+    "id":"202",
+    "name":"HE d'ylang-ylang"
+  },
+  {
+    "id":"203",
+    "name":"HE de thym"
+  },
+  {
+    "id":"204",
+    "name":"HE de romarin"
+  },
+  {
     "id":"205",
     "name":"HE de tea tree"
+  },
+  {
+    "id":"206",
+    "name":"HE de camomille"
+  },
+  {
+    "id":"213",
+    "name":"HE de camomille romaine"
+  },
+  {
+    "id":"207",
+    "name":"HE de petit grain"
   },
   {
     "id":"208",
@@ -188,8 +324,24 @@
     "name":"HE de palmarosa"
   },
   {
+    "id":"210",
+    "name":"HE de sauge sclarée"
+  },
+  {
+    "id":"214",
+    "name":"HE de géranium"
+  },
+  {
+    "id":"215",
+    "name":"HE d'eucalyptus"
+  },
+  {
     "id":"216",
     "name":"HE de citron"
+  },
+  {
+    "id":"217",
+    "name":"HE de cèdre de l'Atlas"
   },
   {
     "id":"218",
@@ -199,4 +351,12 @@
     "id":"301",
     "name":"Huile(s) essentielle(s) au choix"
   },
+  {
+    "id":"303",
+    "name":"Lingettes démaquillantes"
+  },
+  {
+    "id":"304",
+    "name":"Tube de mascara vide"
+  }
 ]
