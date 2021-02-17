@@ -29,7 +29,13 @@
     "instructions":"Pour l’utiliser, il vous suffit de mouiller votre brosse à dents puis de la trempez dans la poudre.",
     "advantages":"0",
     "picture":"picture_dentifrice_en_poudre",
-    "comments":[],
+    "comments":[      
+      {
+        "author":"Florent Deborde",
+        "comment":"Recette très utile ! Elle est simple à réaliser et le rendu me plait. Je l'utilise depuis 3 mois et je ne suis pas déçu :)",
+        "date":"17/02/2021"
+      }
+    ],
     "source":"planetezerodechet.fr"
   },
   {
@@ -130,13 +136,7 @@
     "instructions":"0",
     "advantages":"0",
     "picture":"picture_deodorant_solide",
-    "comments":[
-      {
-        "author":"Steve",
-        "comment":"Pas mal la recette.",
-        "date":"04/02/2021"
-      }
-    ],
+    "comments":[],
     "source":"zerowastemarseille.org"
   },
   {
@@ -176,18 +176,7 @@
     "instructions":"0",
     "advantages":"0",
     "picture":"picture_deodorant_liquide",
-    "comments":[
-      {
-        "author":"Toni",
-        "comment":"Je connaissais pas, je vais essayer !",
-        "date":"04/02/2021"
-      },
-      {
-        "author":"Steve",
-        "comment":"Ouais tu as raison, ça vaut le coup.",
-        "date":"05/02/2021"
-      }
-    ],
+    "comments":[],
     "source":"zerowastemarseille.org"
   },
   {
@@ -241,13 +230,7 @@
     "instructions":"Ce shampoing s’utilise comme un savon, à faire mousser dans ses mains ou directement sur ses cheveux.",
     "advantages":"0",
     "picture":"picture_shampoing_solide",
-    "comments":[
-      {
-        "author":"Jonathan",
-        "comment":"J'utilise de l'huile essentielle de menthe et ça rend très bien !",
-        "date":"06/02/2021"
-      }
-    ],
+    "comments":[],
     "source":"zerowastemarseille.org"
   },
   {
@@ -529,7 +512,7 @@
     "preparation":"Pour un pot de 350 mL :\nFaire fondre le savon de Marseille dans l'eau. Puis mélanger tous les ingrédients ensemble et verser le tout dans un contenant de votre choix. Laisser la pierre d'argile sécher à l'air libre pour qu'elle durcisse.",
     "instructions":"Prélever une petite quantité de pierre d'argile à l'aide d'un chiffon humide, nettoyer vos surfaces sales (salle de bains, plaques de cuisson, ...) et rincer.",
     "advantages":"0",
-    "picture":"picture_default",
+    "picture":"picture_pierre_d_argile",
     "comments":[],
     "source":"zerowastemarseille.org"
   },
@@ -576,7 +559,7 @@
     "preparation":"Mélanger tous les ingrédients ensemble et ajouter de l'eau si vous souhaitez une consistance plus liquide. Verser le tout dans une bouteille.",
     "instructions":"0",
     "advantages":"0",
-    "picture":"picture_default",
+    "picture":"picture_creme_a_recurer",
     "comments":[],
     "source":"zerowastemarseille.org"
   },
@@ -616,7 +599,7 @@
     "preparation":"Pour un vaporisateur de 500 mL :\nVerser tous les ingrédients dans un vaporisateur et secouer légèrement le tout, bouchon fermé. C'est prêt !",
     "instructions":"0",
     "advantages":"Astuces : Laisser macérer vos écorces d'agrumes une dizaine de jours dans du vinaigre pour remplacer les huiles essentielles de cette recette.",
-    "picture":"picture_default",
+    "picture":"picture_nettoyant_multi_usages",
     "comments":[],
     "source":"zerowastemarseille.org"
   },
@@ -663,7 +646,7 @@
     "preparation":"Pour un vaporisateur d' 1 L :\n Verser tous les ingrédients dans un vaporisateur et secouer. C'est prêt !",
     "instructions":"0",
     "advantages":"0",
-    "picture":"picture_default",
+    "picture":"picture_spray_depoussierant",
     "comments":[],
     "source":"zerowastemarseille.org"
   },
@@ -750,7 +733,7 @@
     "preparation":"Pour 1 L :\nDans un saladier en verre ou en métal, verser l'eau à température ambiante. Ajouter les cristaux de soude et laisser-les se dissoudre, sans mélanger, pendant 20 minutes environs. Ajouter ensuite le savon noir, le vinaigre, les huiles essentielles et mélanger bien. Verser le tout dans une bouteille en verre ou un flacon.",
     "instructions":"A chaque nettoyage de vos sols, secouer votre flacon puis verser l'équivalent d'un bouchon dans un seau d'eau chaude. Cette recette vous permet de faire une douzaine de nettoyage au total.",
     "advantages":"Pour éviter d'utiliser des huiles essentielles dans vos préparations à base de vinaigre. Faire macérer des épluchures d'agrumes dans votre vinaigre blanc !",
-    "picture":"picture_default",
+    "picture":"picture_nettoyant_pour_le_sol",
     "comments":[],
     "source":"zerowastemarseille.org"
   },
@@ -790,8 +773,34 @@
     "preparation":"Ajouter un à un tous les ingrédients dans un bocal (type confiture), mélanger...C'est prêt !",
     "instructions":"0",
     "advantages":"0",
-    "picture":"picture_default",
+    "picture":"picture_poudre_lave_vaisselle",
     "comments":[],
     "source":"zerowastemarseille.org"
+  },
+  {
+    "id":"Détartrage des toilettes",
+    "name":"Détartrage des toilettes",
+    "ingredients": [
+      {
+        "ids":["146","145"],
+        "quantity":"3-4 cs",
+        "necessary":"true",
+        "advice":"(C'est le percarbonate que je préfère)",
+        "choice":"0"
+      },
+      {
+        "ids":["103"],
+        "quantity":"1 L",
+        "necessary":"true",
+        "advice":"chaude",
+        "choice":"0"
+      }
+    ],
+    "preparation":"Mélanger les ingrédients.",
+    "instructions":"Verser le tout dans la cuvette. Cela mousse, c'est normal. Laisser agir 1h min, frotter et tirer la chasse d’eau !",
+    "advantages":"0",
+    "picture":"picture_detartrage_des_toilettes",
+    "comments":[],
+    "source":"lesnanaszerodechet.com"
   }
 ]
