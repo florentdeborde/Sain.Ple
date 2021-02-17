@@ -186,5 +186,5 @@
   {
     "id":"301",
     "name":"Huile(s) essentielle(s) au choix"
-  },
+  }
 ]
