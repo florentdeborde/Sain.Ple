@@ -86,6 +86,25 @@
     "source":"zerowastemarseille.org"
   },
   {
+    "id":"Déodorant express",
+    "name":"Déodorant express",
+    "ingredients": [
+      {
+        "ids":["209"],
+        "quantity":"2 gouttes",
+        "necessary":"true",
+        "advice":"0",
+        "choice":"0"
+      }
+    ],
+    "preparation":"0",
+    "instructions":"Déposez une goutte pure d’huile essentielle de Palmarosa sous chaque aisselle et vous êtes tranquille pour la journée !",
+    "advantages":"0",
+    "picture":"picture_deodorant_express",
+    "comments":[],
+    "source":"compagnie-des-sens.fr"
+  },
+  {
     "id":"Déodorant solide",
     "name":"Déodorant solide",
     "ingredients": [
@@ -785,7 +804,7 @@
         "ids":["146","145"],
         "quantity":"3-4 cs",
         "necessary":"true",
-        "advice":"(C'est le percarbonate que je préfère)",
+        "advice":"(c'est le percarbonate que je préfère)",
         "choice":"0"
       },
       {
