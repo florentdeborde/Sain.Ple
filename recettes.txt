@@ -97,8 +97,8 @@
         "choice":"0"
       }
     ],
-    "preparation":"0",
-    "instructions":"Déposez une goutte pure d’huile essentielle de Palmarosa sous chaque aisselle et vous êtes tranquille pour la journée !",
+    "preparation":"Déposez une goutte pure d’huile essentielle de Palmarosa sous chaque aisselle et vous êtes tranquille pour la journée !",
+    "instructions":"0",
     "advantages":"0",
     "picture":"picture_deodorant_express",
     "comments":[],
