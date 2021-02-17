@@ -805,7 +805,7 @@
         "quantity":"3-4 cs",
         "necessary":"true",
         "advice":"(c'est le percarbonate que je préfère)",
-        "choice":"0"
+        "choice":"Au choix parmi :"
       },
       {
         "ids":["103"],
