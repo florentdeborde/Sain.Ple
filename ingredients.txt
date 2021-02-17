@@ -168,6 +168,14 @@
     "name":"Feuille de sauge séchée"
   },
   {
+    "id":"164",
+    "name":"Fleur séchée"
+  },
+  {
+    "id":"165",
+    "name":"Herbe séchée"
+  },
+  {
     "id":"123",
     "name":"Arrow-root"
   },
