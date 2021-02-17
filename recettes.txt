@@ -455,7 +455,7 @@
         "quantity":"2,5 cs",
         "necessary":"true",
         "advice":"0",
-        "choice":""
+        "choice":"0"
       },
       {
         "ids":["144"],
