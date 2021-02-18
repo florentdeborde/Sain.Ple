@@ -29,10 +29,10 @@
     "instructions":"Pour l’utiliser, il vous suffit de mouiller votre brosse à dents puis de la trempez dans la poudre.",
     "advantages":"0",
     "picture":"picture_dentifrice_en_poudre",
-    "comments":[      
+    "comments":[
       {
         "author":"Florent Deborde",
-        "comment":"Recette très utile ! Elle est simple à réaliser et le rendu me plait. Je l'utilise depuis 3 mois et je ne suis pas déçu :)",
+        "comment":"Je trouve cette recette très bien ! Elle est simple à réaliser et le rendu me plait. Je l'utilise depuis 3 mois et je ne suis pas déçu :)",
         "date":"17/02/2021"
       }
     ],
