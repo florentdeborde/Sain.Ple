@@ -1,7 +1,7 @@
 [
   {
     "author":"Florent Deborde",
-    "comment":"Bonjour, je suis le créateur de Sain.Ple. Je débute en développement d'application et je suis preneur de retour :)",
-    "date":"17/02/2021"
+    "comment":"Bonjour, je suis le créateur de Sain.Ple et je suis preneur de retour :)",
+    "date":"18/02/2021"
   }
 ]
