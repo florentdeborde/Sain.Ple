@@ -437,7 +437,7 @@
     "preparation":"Faire macérer le tout pendant 48h puis filtrer et verser dans un contenant de 100mL.",
     "instructions":"A utiliser dilué dans de l'eau.",
     "advantages":"0",
-    "picture":"picture_default",
+    "picture":"picture_bain_de_bouche",
     "comments":[],
     "source":"zerowastemarseille.org"
   },
