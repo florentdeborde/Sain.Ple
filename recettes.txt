@@ -442,8 +442,8 @@
     "source":"zerowastemarseille.org"
   },
   {
-    "id":"Boule de bain effervescente",
-    "name":"Boule de bain effervescente",
+    "id":"Boules de bain effervescentes",
+    "name":"Boules de bain effervescentes",
     "ingredients": [
       {
         "ids":["100"],
@@ -484,7 +484,7 @@
     "preparation":"Pour 4 à 5 boules :\nMélanger dans un contenu le bicarbonate de soude, l'acide citrique (il faut éviter de respirer la poussière qu'il peut dégager), la fécule de maïs et les fleurs/herbes séchées pour la déco. Ajouter l'huile de coco fondue et mélanger jusqu'à obtenir une texture homogène. Il ne reste plus qu'à placer la préparation dans des moules (à glaçons ou à gateaux) et à mettre au réfrigérateur quelques heures avant de démouler. A conserver dans un contenant hermétique.",
     "instructions":"0",
     "advantages":"0",
-    "picture":"picture_boule_de_bain_effervescente",
+    "picture":"picture_boules_de_bain_effervescentes",
     "comments":[],
     "source":"planetezerodechet.fr"
   },
