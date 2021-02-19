@@ -34,6 +34,11 @@
         "author":"Florent Deborde",
         "comment":"Je trouve cette recette très bien ! Elle est simple à réaliser et le rendu me plait. Je l'utilise depuis 3 mois et je ne suis pas déçu :)",
         "date":"17/02/2021"
+      },
+            {
+        "author":"Bill Gates",
+        "comment":"Ok, je vais l'essayer alors !",
+        "date":"19/02/2021"
       }
     ],
     "source":"planetezerodechet.fr"
