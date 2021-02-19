@@ -192,7 +192,7 @@
       }
     ],
     "preparation":"Tout mélangez et conditionnez dans un pot.",
-    "instructions":"0"
+    "instructions":"0",
     "advantages":"0",
     "picture":"picture_deodorant_liquide",
     "comments":[],
