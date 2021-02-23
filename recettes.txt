@@ -120,13 +120,13 @@
       },
       {
         "ids":["166","165"],
-        "quantity":"",
+        "quantity":"à votre appréciation",
         "necessary":"false",
         "advice":"(pour décorer les boules de bain)",
         "choice":"Au choix parmi :"
       }
     ],
-    "preparation":"Pour 4 à 5 boules :\n\nMélangez dans un contenu le bicarbonate de soude, l'acide citrique (il faut éviter de respirer la poussière qu'il peut dégager), la fécule de maïs et les fleurs/herbes séchées pour la déco.\n\nAjoutez l'huile de coco fondue et mélangez jusqu'à obtenir une texture homogène.\n\nIl ne vous reste plus qu'à placer la préparation dans des moules (à glaçons ou à gateaux) et à les mettre au réfrigérateur quelques heures avant de démouler.\n\nA conserver dans un contenant hermétique.",
+    "preparation":"Pour 4 à 5 boules :\n\nMélangez dans un contenant le bicarbonate de soude, l'acide citrique (il faut éviter de respirer la poussière qu'il peut dégager), la fécule de maïs et les fleurs/herbes séchées pour la déco.\n\nAjoutez l'huile de coco fondue et mélangez jusqu'à obtenir une texture homogène.\n\nIl ne vous reste plus qu'à placer la préparation dans des moules (à glaçons ou à gateaux) et à les mettre au réfrigérateur quelques heures avant de démouler.\n\nA conserver dans un contenant hermétique, dans une pièce fraîche.",
     "instructions":"0",
     "advantages":"0",
     "picture":"picture_boules_de_bain_effervescentes",
@@ -174,9 +174,9 @@
       },
       {
         "ids":["156"],
-        "quantity":" ",
+        "quantity":"quelques gouttes",
         "necessary":"false",
-        "advice":"0",
+        "advice":"(extrait de pépin de pamplemousse)",
         "choice":"0"
       }
     ],
@@ -207,7 +207,7 @@
       },
       {
         "ids":["101"],
-        "quantity":"50 g",
+        "quantity":"100 g",
         "necessary":"true",
         "advice":"en poudre",
         "choice":"0"
@@ -313,7 +313,7 @@
         "choice":"0"
       }
     ],
-    "preparation":"Dans un bol, mélangez le SCI, le carbonate de calcium et l’eau.\n\nPuis au bain-marie, faites fondre le tout.\n\nUne fois que vous obtenez une pâte, sortez du feu et ajoutez l’HE de Tea Tree puis celle de menthe tout en mélangeant.\n\nPlacez votre préparation dans un moule et laissez reposer 48h au frais.\n\nFacultatif : enfoncez un bâtonnet en bois dans le moule.",
+    "preparation":"Dans un bol, mélangez le SCI, le carbonate de calcium et l’eau.\n\nPuis au bain-marie, faites fondre le tout.\n\nUne fois que vous obtenez une pâte, sortez du feu et ajoutez l’HE de tea tree puis celle de menthe tout en mélangeant.\n\nPlacez votre préparation dans un moule et laissez reposer 48h au frais.\n\nFacultatif : enfoncez un bâtonnet en bois dans le moule.",
     "instructions":"Pour l’utiliser, il vous suffit de frotter votre brosse à dents sur votre dentifrice puis de la mouiller.",
     "advantages":"0",
     "picture":"picture_dentifrice_solide",
@@ -332,7 +332,7 @@
         "choice":"0"
       }
     ],
-    "preparation":"Déposez une goutte pure d’huile essentielle de Palmarosa sous chaque aisselle et vous êtes tranquille pour la journée !",
+    "preparation":"Déposez une goutte pure d’huile essentielle de palmarosa sous chaque aisselle et vous êtes tranquille pour la journée !",
     "instructions":"0",
     "advantages":"0",
     "picture":"picture_deodorant_express",
@@ -359,7 +359,7 @@
       },
       {
         "ids":["115","122"],
-        "quantity":"30 g",
+        "quantity":"20 g",
         "necessary":"true",
         "advice":"0",
         "choice":"Huile végétale au choix :"
@@ -372,7 +372,7 @@
         "choice":"0"
       }
     ],
-    "preparation":"Tout mélangez et conditionnez dans un pot.",
+    "preparation":"Mélangez tous les ingrédients et conditionnez dans un pot.",
     "instructions":"0",
     "advantages":"0",
     "picture":"picture_deodorant_liquide",
@@ -492,7 +492,7 @@
         "choice":"0"
       }
     ],
-    "preparation":"Pour 1 L de lessive :\n\nFaites bouillir l'eau et faites y faire fondre le savon de Marseille.\n\nHors du feu, quand le mélange a un peu refroidi, incorporez les cristaux de soude.\n\nQuand le mélange est froid, ajoutez les huiles essentielles, le bicarbonate de soude et mixez une nouvelle fois.",
+    "preparation":"Pour 1 L de lessive :\n\nFaites bouillir l'eau et faites y faire fondre le savon de Marseille.\n\nHors du feu, quand le mélange a un peu refroidi, incorporez les cristaux de soude / le bicarbonate de soude.\n\nQuand le mélange est froid, ajoutez les huiles essentielles et mixez une nouvelle fois.",
     "instructions":"Conditionnez le mélange dans des bouteilles sans les remplir entièrement afin de pouvoir secouer facilement : la lessive se solidifie légèrement lorsqu'elle a refroidi.",
     "advantages":"0",
     "picture":"picture_lessive",
@@ -532,7 +532,7 @@
         "choice":"Huile(s) essentielle(s) au choix :"
       }
     ],
-    "preparation":"Pour un vaporisateur de 500 mL :\n\nVersez tous les ingrédients dans un vaporisateur et secouez légèrement le tout, bouchon fermé. C'est prêt !",
+    "preparation":"Pour un vaporisateur de 500 mL :\n\nVersez tous les ingrédients dans un vaporisateur et secouez légèrement le tout, bouchon fermé.\n\nC'est prêt !",
     "instructions":"0",
     "advantages":"Astuces : Laissez macérer vos écorces d'agrumes une dizaine de jours dans du vinaigre pour remplacer les huiles essentielles de cette recette.",
     "picture":"picture_nettoyant_multi_usages",
@@ -574,7 +574,7 @@
       {
         "ids":["216","205","201","218"],
         "quantity":"30 gouttes",
-        "necessary":"false",
+        "necessary":"true",
         "advice":"0",
         "choice":"Huile(s) essentielle(s) au choix :"
       }
@@ -666,7 +666,7 @@
         "choice":"0"
       }
     ],
-    "preparation":"Ajoutez un à un tous les ingrédients dans un bocal (type confiture), mélangez...C'est prêt !",
+    "preparation":"Ajoutez un à un tous les ingrédients dans un bocal (type confiture), mélangez...\n\nC'est prêt !",
     "instructions":"0",
     "advantages":"0",
     "picture":"picture_poudre_lave_vaisselle",
@@ -679,14 +679,14 @@
     "ingredients": [
       {
         "ids":["143"],
-        "quantity":"15 g",
+        "quantity":"60 g",
         "necessary":"true",
         "advice":"en paillettes",
         "choice":"0"
       },
       {
         "ids":["103"],
-        "quantity":"30 g",
+        "quantity":"50 cl",
         "necessary":"true",
         "advice":"chaude",
         "choice":"0"
@@ -761,7 +761,7 @@
       },
       {
         "ids":["154","155","156"],
-        "quantity":" ",
+        "quantity":"quelques gouttes",
         "necessary":"false",
         "advice":"(extrait de pépin de pamplemousse)",
         "choice":"Ingrédient(s) au choix :"
@@ -814,7 +814,7 @@
         "choice":"0"
       }
     ],
-    "preparation":"Pour un vaporisateur d' 1 L :\n\n Versez tous les ingrédients dans un vaporisateur et secouez. C'est prêt !",
+    "preparation":"Pour un vaporisateur d' 1 L :\n\n Versez tous les ingrédients dans un vaporisateur et secouez.\n\nC'est prêt !",
     "instructions":"0",
     "advantages":"0",
     "picture":"picture_spray_depoussierant",
