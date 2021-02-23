@@ -1,7 +1,7 @@
 [
   {
     "author":"Florent Deborde",
-    "comment":"Bonjour, je suis le créateur de Sain.Ple :).\nC'est chouette que vous utilisiez l'application ! Je suis preneur de retour donc n'hésitez pas laisser un avis ou encore proposer des recettes etc...\nBonne journée. FD",
+    "comment":"Bonjour, je suis le créateur de Sain.Ple :).\nC'est chouette que vous utilisiez l'application ! Je suis preneur de retour donc n'hésitez pas laisser à un avis ou encore proposer des recettes etc...\nBonne journée. FD",
     "date":"18/02/2021"
   }
 ]
