@@ -269,16 +269,6 @@
         "author":"Florent Deborde",
         "comment":"Je trouve cette recette très bien ! Elle est simple à réaliser et le rendu me plait. Je l'utilise depuis 3 mois et je ne suis pas déçu :)",
         "date":"17/02/2021"
-      },
-      {
-        "author":"Florent Deborde",
-        "comment":"Je trouve cette recette très bien ! Elle est simple à réaliser et le rendu me plait. Je l'utilise depuis 3 mois et je ne suis pas déçu :)",
-        "date":"17/02/2021"
-      },
-      {
-        "author":"Florent Deborde",
-        "comment":"Je trouve cette recette très bien ! Elle est simple à réaliser et le rendu me plait. Je l'utilise depuis 3 mois et je ne suis pas déçu :)",
-        "date":"17/02/2021"
       }
     ],
     "source":"planetezerodechet.fr"
