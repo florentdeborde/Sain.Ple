@@ -313,7 +313,7 @@
         "choice":"0"
       }
     ],
-    "preparation":"Dans un bol, mélangez le SCI, le carbonate de calcium et l’eau.\n\nPuis au bain-marie, faites fondre le tout.\n\nUne fois que vous obtenez une pâte, sortez du feu et ajoutez l’HE de tea tree puis celle de menthe tout en mélangeant.\n\nPlacez votre préparation dans un moule et laissez reposer 48h au frais.\n\nFacultatif : enfoncez un bâtonnet en bois dans le moule.",
+    "preparation":"Dans un bol, mélangez le SCI, le bicarbonate de calcium et l’eau.\n\nPuis au bain-marie, faites fondre le tout.\n\nUne fois que vous obtenez une pâte, sortez du feu et ajoutez l’HE de tea tree puis celle de menthe tout en mélangeant.\n\nPlacez votre préparation dans un moule et laissez reposer 48h au frais.\n\nFacultatif : enfoncez un bâtonnet en bois dans le moule.",
     "instructions":"Pour l’utiliser, il vous suffit de frotter votre brosse à dents sur votre dentifrice puis de la mouiller.",
     "advantages":"0",
     "picture":"picture_dentifrice_solide",
