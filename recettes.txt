@@ -486,7 +486,7 @@
       },
       {
         "ids":["301"],
-        "quantity":"10 à 20 gouttes",
+        "quantity":"quelques gouttes",
         "necessary":"false",
         "advice":"0",
         "choice":"0"
